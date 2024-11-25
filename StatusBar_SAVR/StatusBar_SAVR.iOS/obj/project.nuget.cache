@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xm/mItBL5xY=",
+  "success": true,
+  "projectFilePath": "E:\\Archivos Phany\\4toCuatrimestre\\StatusBar_SAVR\\StatusBar_SAVR\\StatusBar_SAVR.iOS\\StatusBar_SAVR.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephany Vlz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Stephany Vlz\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Stephany Vlz\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
